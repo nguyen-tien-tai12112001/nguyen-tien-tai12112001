@@ -39,8 +39,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Google Keep](https://img.shields.io/badge/-Google%20Keep-05122A?style=flat&logo=googlekeep)&nbsp;
-![Microsoft OneNote](https://img.shields.io/badge/-Microsoft%20OneNote-05122A?style=flat&logo=microsoftonenote)&nbsp;
 ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
 ![Skype](https://img.shields.io/badge/-Skype-05122A?style=flat&logo=skype)&nbsp;
 ![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)&nbsp;
